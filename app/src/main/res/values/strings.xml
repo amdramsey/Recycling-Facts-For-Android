@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">حقائق إعادة التدوير</string>
+    <string name="recycling_facts_activity_title">حقائق إعادة التدوير</string>
+    <string name="fact_text_view">الاف المخلوقات البحرية تموت بسبب ابتلاعها اكياس البلاستيك التى تشبه قنديل البحر</string>
+    <string name="give_me_what_you_have">اعطني ما عندك</string>
+    <string name="new_fact">حقيقة جديدة</string>
+    <string name="fact_1">95% من معلومات العالم لاتزال مخزنه على الورق واغلبها لاتتم مشاهدته مرة اخرى</string>
+    <string name="fact_2">اعادة تدوير قاروة بلاستيك يوفر طاقة كافية لاضاءة مصباح بقدرة 60 واط لمدة 6 ساعات</string>
+    <string name="fact_3">الاف المخلوقات البحرية تموت بسبب ابتلاعها اكياس البلاستيك التي تشبه قنديل البحر</string>
+    <string name="fact_4">في كل عام يرمي الامريكان قوارير وزجاجات كافية لوصول القمر والعودة اليه 20 مره</string>
+    <string name="fact_5">اعادة تدوير طن من البلاستيك يمكن ان يوفر حوالي 2000 غالون من البنزين</string>
+    <string name="fact_6"> بداية من عام 2015 جميع سكان نيويورك عليهم اعادة تدوير الاجهزة الالكترونية والا سيواجهون غرامه مقدارها 100 دولار</string>
+    <string name="fact_7">اعادة تدوير علبة المنيوم يمكن ان يوفر طاقة تكفي لتشغيل تلفاز لساعتين</string>
+    <string name="fact_8">اعادة تدوير طن من الورق يحافظ على 17 شجره</string>
+    <string name="fact_9">اعادة تدوير علبة المنيوم يمكن ان يعيدها الى رف متجر خلال 60 يوم</string>
+    <string name="fact_10">إبدأ إعادة التدوير بتقليل استخدامك للبلاستك</string>
+    <string name="color1">#5ABBB5</string>
+    <string name="color2">#DEAB42</string>
+    <string name="color3">#DF565E</string>
+    <string name="color4">#EF8264</string>
+    <string name="color5">#4D4B52</string>
+    <string name="color6">#695E85</string>
+    <string name="color7">#55B070</string>
+    <string-array name="facts">
+        <item>@string/fact_1</item>
+        <item>@string/fact_2</item>
+        <item>@string/fact_3</item>
+        <item>@string/fact_4</item>
+        <item>@string/fact_5</item>
+        <item>@string/fact_6</item>
+        <item>@string/fact_7</item>
+        <item>@string/fact_8</item>
+        <item>@string/fact_9</item>
+        <item>@string/fact_10</item>
+    </string-array>
+    <string-array name="colors">
+        <item>@string/color1</item>
+        <item>@string/color2</item>
+        <item>@string/color3</item>
+        <item>@string/color4</item>
+        <item>@string/color5</item>
+        <item>@string/color6</item>
+        <item>@string/color7</item>
+    </string-array>
+</resources>
